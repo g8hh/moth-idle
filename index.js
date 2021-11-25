@@ -2677,7 +2677,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 			this.u7.uCh.text = format(nd(maxCombo).times(100)) + "% -> " + format(nd(maxCombo_next).times(100)) + "%";
 			this.u7.uCost.text = format(upgrades2[6].totalCost) + " 光";
 			
-			this.u8.uName.text = "黄金几率 (" + Math.round(upgrades[7].level)+ "/" + Math.round(upgrades[7].maxLevel) + ")"
+			this.u8.uName.text = "金色几率 (" + Math.round(upgrades[7].level)+ "/" + Math.round(upgrades[7].maxLevel) + ")"
 			goldenChance = 0.01 + upgrades[7].level*0.002;
 			var goldenChance_next = 0.01 + (upgrades[7].level+upgrades2[7].buyAmo)*0.002;
 			this.u8.uCh.text = format(nd(goldenChance).times(100)) + "% -> " + format(nd(goldenChance_next).times(100)) + "%";
