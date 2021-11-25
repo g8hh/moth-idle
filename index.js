@@ -681,35 +681,35 @@ p.nominalBounds = new cjs.Rectangle(-1.4,-1.4,33.6,33.6);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Your moths power = multiplication of all these mults", "bold 18px 'Arial'");
+	this.text = new cjs.Text("你的飞蛾力量 = 所有这些多重的乘数", "bold 18px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 22;
 	this.text.lineWidth = 288;
 	this.text.parent = this;
 	this.text.setTransform(157.7,144.25);
 
-	this.text_1 = new cjs.Text("Buy different upgrades to help your moths absorb the light.\nReach higher levels to unlock prestige and rebirth.", "bold 18px 'Arial'");
+	this.text_1 = new cjs.Text("购买不同的升级来帮助你的飞蛾吸收光线。\n达到更高的等级来解锁声望和重生。", "bold 18px 'Arial'");
 	this.text_1.textAlign = "center";
 	this.text_1.lineHeight = 22;
 	this.text_1.lineWidth = 298;
 	this.text_1.parent = this;
 	this.text_1.setTransform(1167.85,426.2);
 
-	this.text_2 = new cjs.Text("Here are your stats. Amount of moths and light", "bold 18px 'Arial'");
+	this.text_2 = new cjs.Text("这是你的统计数据。 飞蛾和光量", "bold 18px 'Arial'");
 	this.text_2.textAlign = "center";
 	this.text_2.lineHeight = 22;
 	this.text_2.lineWidth = 283;
 	this.text_2.parent = this;
 	this.text_2.setTransform(1246.95,201.75);
 
-	this.text_3 = new cjs.Text("The higher your stage, the harder for your moths to absorb the light. There are 10 different colors.", "bold 18px 'Arial'");
+	this.text_3 = new cjs.Text("你的关卡越高，你的飞蛾就越难吸收光线。 有10种不同的颜色。", "bold 18px 'Arial'");
 	this.text_3.textAlign = "center";
 	this.text_3.lineHeight = 22;
 	this.text_3.lineWidth = 308;
 	this.text_3.parent = this;
 	this.text_3.setTransform(737.85,172.55);
 
-	this.text_4 = new cjs.Text("Here are your field and moths. They absorb light from the lamp, also you get some multiplier", "bold 20px 'Arial'");
+	this.text_4 = new cjs.Text("这是你的田地和飞蛾。 它们吸收灯的光，你也会得到一些乘数", "bold 20px 'Arial'");
 	this.text_4.textAlign = "center";
 	this.text_4.lineHeight = 24;
 	this.text_4.lineWidth = 298;
@@ -731,7 +731,7 @@ p.nominalBounds = new cjs.Rectangle(-1,-1,1417,721);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.turbo = new cjs.Text("TURBO", "bold 22px 'Arial'");
+	this.turbo = new cjs.Text("涡轮", "bold 22px 'Arial'");
 	this.turbo.name = "turbo";
 	this.turbo.textAlign = "center";
 	this.turbo.lineHeight = 27;
@@ -926,7 +926,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,92.9,8);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.pl = new cjs.Text("+100,000 Light", "bold 25px 'Arial'", "#FFFFFF");
+	this.pl = new cjs.Text("+100,000 光", "bold 25px 'Arial'", "#FFFFFF");
 	this.pl.name = "pl";
 	this.pl.textAlign = "center";
 	this.pl.lineHeight = 30;
@@ -1038,7 +1038,7 @@ p.nominalBounds = new cjs.Rectangle(-0.4,-0.4,62.9,72.2);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Reach stage 50 to unlock", "bold 22px 'Arial'", "#FFFFFF");
+	this.text = new cjs.Text("达到第50关即可解锁", "bold 22px 'Arial'", "#FFFFFF");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.lineWidth = 173;
@@ -1059,7 +1059,7 @@ p.nominalBounds = new cjs.Rectangle(-0.4,-0.4,62.9,72.2);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Reach 1M total light to unlock", "bold 22px 'Arial'", "#FFFFFF");
+	this.text = new cjs.Text("总计达到 100M 光即可解锁", "bold 22px 'Arial'", "#FFFFFF");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.lineWidth = 173;
@@ -1223,7 +1223,7 @@ p.nominalBounds = new cjs.Rectangle(-14.3,-31.6,174.3,160);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.t = new cjs.Text("MAX", "bold 14px 'Arial'", "#FFFFFF");
+	this.t = new cjs.Text("最大", "bold 14px 'Arial'", "#FFFFFF");
 	this.t.name = "t";
 	this.t.textAlign = "center";
 	this.t.lineHeight = 18;
@@ -1247,7 +1247,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,48,28);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("AUTO", "bold 22px 'Arial'");
+	this.text = new cjs.Text("自动", "bold 22px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.lineWidth = 73;
@@ -1272,7 +1272,7 @@ p.nominalBounds = new cjs.Rectangle(-0.9,-0.9,36.8,15);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Watch an ad to get free\n5 min of SpeedUP", "bold 21px 'Consolas'", "#003300");
+	this.text = new cjs.Text("看一个广告获得免费\n5分钟加速", "bold 21px 'Consolas'", "#003300");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.parent = this;
@@ -1308,7 +1308,7 @@ p.nominalBounds = new cjs.Rectangle(-2,-2,167,48);
 	this.timeline.addTween(cjs.Tween.get(this.hover).wait(1));
 
 	// Слой_1
-	this.uCost = new cjs.Text("10 Light", "bold 25px 'Arial'", "#FFFFFF");
+	this.uCost = new cjs.Text("10 光", "bold 25px 'Arial'", "#FFFFFF");
 	this.uCost.name = "uCost";
 	this.uCost.textAlign = "center";
 	this.uCost.lineHeight = 30;
@@ -1324,7 +1324,7 @@ p.nominalBounds = new cjs.Rectangle(-2,-2,167,48);
 	this.uCh.parent = this;
 	this.uCh.setTransform(94.4813,29.2,0.5768,0.5768);
 
-	this.uName = new cjs.Text("Buy Moth (1/25)", "bold 25px 'Arial'", "#FFFFFF");
+	this.uName = new cjs.Text("购买飞蛾 (1/25)", "bold 25px 'Arial'", "#FFFFFF");
 	this.uName.name = "uName";
 	this.uName.textAlign = "center";
 	this.uName.lineHeight = 30;
@@ -1355,14 +1355,14 @@ p.nominalBounds = new cjs.Rectangle(-2,-2,167,48);
 	this.timeline.addTween(cjs.Tween.get(this.hover).wait(1));
 
 	// Слой_1
-	this.text = new cjs.Text("Will reset your progress & prestige", "bold 10px 'Arial'", "#FFFFFF");
+	this.text = new cjs.Text("将重置您的进度和声望", "bold 10px 'Arial'", "#FFFFFF");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 13;
 	this.text.lineWidth = 185;
 	this.text.parent = this;
 	this.text.setTransform(94.5,135.15);
 
-	this.cclicks = new cjs.Text("Click 5 times to rebirth", "bold 14px 'Arial'", "#FFFFFF");
+	this.cclicks = new cjs.Text("点击5次以重生", "bold 14px 'Arial'", "#FFFFFF");
 	this.cclicks.name = "cclicks";
 	this.cclicks.textAlign = "center";
 	this.cclicks.lineHeight = 18;
@@ -1378,7 +1378,7 @@ p.nominalBounds = new cjs.Rectangle(-2,-2,167,48);
 	this.rExp.parent = this;
 	this.rExp.setTransform(94.5,103.65);
 
-	this.text_1 = new cjs.Text("Rebirth Exponent", "bold 16px 'Arial'", "#FFFFFF");
+	this.text_1 = new cjs.Text("重生指数", "bold 16px 'Arial'", "#FFFFFF");
 	this.text_1.textAlign = "center";
 	this.text_1.lineHeight = 20;
 	this.text_1.lineWidth = 185;
@@ -1393,14 +1393,14 @@ p.nominalBounds = new cjs.Rectangle(-2,-2,167,48);
 	this.rMult.parent = this;
 	this.rMult.setTransform(96.45,54.7);
 
-	this.text_2 = new cjs.Text("Rebirth Mult (Mult Gain)", "bold 14px 'Arial'", "#FFFFFF");
+	this.text_2 = new cjs.Text("重生乘数（乘数增益）", "bold 14px 'Arial'", "#FFFFFF");
 	this.text_2.textAlign = "center";
 	this.text_2.lineHeight = 18;
 	this.text_2.lineWidth = 183;
 	this.text_2.parent = this;
 	this.text_2.setTransform(96.45,32.8);
 
-	this.text_3 = new cjs.Text("Rebirth", "bold 20px 'Arial'", "#FFFFFF");
+	this.text_3 = new cjs.Text("重生", "bold 20px 'Arial'", "#FFFFFF");
 	this.text_3.textAlign = "center";
 	this.text_3.lineHeight = 24;
 	this.text_3.lineWidth = 185;
@@ -1430,14 +1430,14 @@ p.nominalBounds = new cjs.Rectangle(-2,-2,167,48);
 	this.timeline.addTween(cjs.Tween.get(this.hover).wait(1));
 
 	// Слой_1
-	this.text = new cjs.Text("Will reset your progress", "bold 14px 'Arial'", "#FFFFFF");
+	this.text = new cjs.Text("将重置您的进度", "bold 14px 'Arial'", "#FFFFFF");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 18;
 	this.text.lineWidth = 185;
 	this.text.parent = this;
 	this.text.setTransform(94.5,133.5);
 
-	this.cclicks = new cjs.Text("Click 5 times to prestige", "bold 14px 'Arial'", "#FFFFFF");
+	this.cclicks = new cjs.Text("点击5次以声望", "bold 14px 'Arial'", "#FFFFFF");
 	this.cclicks.name = "cclicks";
 	this.cclicks.textAlign = "center";
 	this.cclicks.lineHeight = 18;
@@ -1453,7 +1453,7 @@ p.nominalBounds = new cjs.Rectangle(-2,-2,167,48);
 	this.pExp.parent = this;
 	this.pExp.setTransform(94.5,103.65);
 
-	this.text_1 = new cjs.Text("Prestige Exponent", "bold 16px 'Arial'", "#FFFFFF");
+	this.text_1 = new cjs.Text("声望指数", "bold 16px 'Arial'", "#FFFFFF");
 	this.text_1.textAlign = "center";
 	this.text_1.lineHeight = 20;
 	this.text_1.lineWidth = 185;
@@ -1468,14 +1468,14 @@ p.nominalBounds = new cjs.Rectangle(-2,-2,167,48);
 	this.pMult.parent = this;
 	this.pMult.setTransform(95.5,54.7);
 
-	this.text_2 = new cjs.Text("Prestige Mult", "bold 16px 'Arial'", "#FFFFFF");
+	this.text_2 = new cjs.Text("声望乘数", "bold 16px 'Arial'", "#FFFFFF");
 	this.text_2.textAlign = "center";
 	this.text_2.lineHeight = 20;
 	this.text_2.lineWidth = 185;
 	this.text_2.parent = this;
 	this.text_2.setTransform(95.5,32.8);
 
-	this.text_3 = new cjs.Text("Prestige", "bold 20px 'Arial'", "#FFFFFF");
+	this.text_3 = new cjs.Text("声望", "bold 20px 'Arial'", "#FFFFFF");
 	this.text_3.textAlign = "center";
 	this.text_3.lineHeight = 24;
 	this.text_3.lineWidth = 185;
@@ -1630,7 +1630,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 		 
 		this.cGames.addEventListener("click", goCG.bind(this));
 		function goCG() {
-			window.open("http://crazygames.com/", "_blank");
+			window.open("http://gityx.com/", "_blank");
 		}
 		
 		const crazysdk = window.CrazyGames.CrazySDK.getInstance(); //Getting the SDK
@@ -1683,7 +1683,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 		    fps = 30;
 			fps2 = 30;
 			this.helpSplash.alpha = 1;
-			this.helpSplash.text = "Here was an error with an ad but anyway here is 1.5 mins of bonus time for you ;)";
+			this.helpSplash.text = "这是一个广告错误，但无论如何这里有 1.5 分钟的奖励时间给你 ;)";
 			speedUPtime_ib += 90;
 			respawn = 300;
 		}
@@ -1692,7 +1692,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 		    fps = 30;
 			fps2 = 30;
 			this.helpSplash.alpha = 1;
-			this.helpSplash.text = "Thanks very much for watching. Here is your bonus 5 mins!";
+			this.helpSplash.text = "非常感谢观看。 这是您的奖励 5 分钟！";
 			speedUPtime_ib += 300;
 			respawn = 300;
 		}
@@ -1718,7 +1718,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 			light = light.plus(mGet);
 			tlight = tlight.plus(mGet);
 			
-			this.helpSplash.text = "U got " + format(mGet) + " Light";
+			this.helpSplash.text = "你得到了 " + format(mGet) + " 光";
 			
 			respawn = 160;
 		}
@@ -1816,7 +1816,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 				this.speedUP_b.visible = true;
 				this.spdUP.visible = true;
 				this.spdTime.visible = true;
-				this.spdUP.text = "SpeedUP (x2, max 30m)";
+				this.spdUP.text = "加速 (x2, 最多 30分钟)";
 				this.spdTime.text = Math.floor(speedUPtime_ib*10)/10 + "s";
 				
 				if (sActive == true) {
@@ -2437,7 +2437,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 			
 			light = light.plus(moth.money);
 			tlight = tlight.plus(moth.money);
-			txt.pl.text = "+" + format(moth.money) + " Light"
+			txt.pl.text = "+" + format(moth.money) + " 光"
 			
 			moth.removeEventListener('tick', setGMoth);
 			moth.removeEventListener('click', getBonus);
@@ -2587,10 +2587,10 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 			fps2 += 1;
 			time1_ib = d.getTime()/1000;
 			
-			this.moths.text = "Moths: " + Math.round(mothNow);
-			this.light.text = "Light: " + format(light);
+			this.moths.text = "飞蛾: " + Math.round(mothNow);
+			this.light.text = "光: " + format(light);
 			
-			this.combos.text = "Combo: " + format(nd(combo).times(100)) + "%";
+			this.combos.text = "组合: " + format(nd(combo).times(100)) + "%";
 			
 			
 			suckPower = (mults[0].times(mults[1]).times(mults[2]).times(mults[3]).times(mults[4]).times(mults[5]).times(mults[6]).times(mults[7]).times(mults[8]).times(mults[9]).times(prestigeMult)).pow(prestigePower.times(rebirthPower));
@@ -2607,8 +2607,8 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 			this.m9.text = format(mults[8]);
 			this.m10.text = format(mults[9]);
 			
-			this.mothP.text = "Moth power: " + format(suckPower);
-			this.lampHP.text = "Lamps HP: " + format(lamps[0].maxHPs);
+			this.mothP.text = "飞蛾力量: " + format(suckPower);
+			this.lampHP.text = "灯生命值: " + format(lamps[0].maxHPs);
 			
 			
 			
@@ -2638,50 +2638,50 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 				upgrades2[i].totalCost = (Decimal.pow(upgrades[i].bInc, upgrades2[i].buyAmo).sub(1)).div((upgrades[i].bInc).sub(1)).times(upgrades[i].bTotalCost);
 			}
 			
-			this.u1.uName.text = "Buy Moth (" + Math.round(upgrades[0].level) + "/" + Math.round(upgrades[0].maxLevel) + ")"
+			this.u1.uName.text = "购买飞蛾 (" + Math.round(upgrades[0].level) + "/" + Math.round(upgrades[0].maxLevel) + ")"
 			this.u1.uCh.text = Math.round(upgrades[0].level) + " -> " + Math.round(upgrades[0].level + upgrades2[0].buyAmo);
-			this.u1.uCost.text = format(upgrades2[0].totalCost) + " Light";
+			this.u1.uCost.text = format(upgrades2[0].totalCost) + " 光";
 			
-			this.u2.uName.text = "Moth Speed (" + Math.round(upgrades[1].level) + "/" + Math.round(upgrades[1].maxLevel) + ")"
+			this.u2.uName.text = "飞蛾速度 (" + Math.round(upgrades[1].level) + "/" + Math.round(upgrades[1].maxLevel) + ")"
 			this.u2.uCh.text = Math.round(10 + upgrades[1].level) + " -> " + Math.round(10 + upgrades[1].level + upgrades2[1].buyAmo);
-			this.u2.uCost.text = format(upgrades2[1].totalCost) + " Light";
+			this.u2.uCost.text = format(upgrades2[1].totalCost) + " 光";
 			
-			this.u3.uName.text = "Refill Speed (" + Math.round(upgrades[2].level) + ")"
+			this.u3.uName.text = "补充速度 (" + Math.round(upgrades[2].level) + ")"
 			rSpeed = nd(0.1 + (0.05*upgrades[2].level));
 			var rSpeed_next = nd(0.1 + (0.05*(upgrades[2].level+upgrades2[2].buyAmo)));
 			this.u3.uCh.text = format(rSpeed) + " -> " + format(rSpeed_next);
-			this.u3.uCost.text = format(upgrades2[2].totalCost) + " Light";
+			this.u3.uCost.text = format(upgrades2[2].totalCost) + " 光";
 			
-			this.u4.uName.text = "Refill Rate (" + Math.round(upgrades[3].level) + ")"
+			this.u4.uName.text = "补充率 (" + Math.round(upgrades[3].level) + ")"
 			rRate = 3 * Math.pow(0.9, upgrades[3].level);
 			rRate = Math.max(rRate, 0.00001);
 			var rRate_next = 3 * Math.pow(0.9, upgrades[3].level+upgrades2[3].buyAmo);
 			this.u4.uCh.text = format(nd(rRate)) + "s -> " + format(nd(rRate_next)) + "s";
-			this.u4.uCost.text = format(upgrades2[3].totalCost) + " Light";
+			this.u4.uCost.text = format(upgrades2[3].totalCost) + " 光";
 			
-			this.u5.uName.text = "Light Gain (" + Math.round(upgrades[4].level) + ")"
+			this.u5.uName.text = "光增益 (" + Math.round(upgrades[4].level) + ")"
 			lGain = nd(1 + upgrades[4].level*0.05);
 			var lGain_next = nd(1 + (upgrades[4].level+upgrades2[4].buyAmo)*0.05);
 			this.u5.uCh.text = format(lGain.times(100)) + "% -> " + format(lGain_next.times(100)) + "%";
-			this.u5.uCost.text = format(upgrades2[4].totalCost) + " Light";
+			this.u5.uCost.text = format(upgrades2[4].totalCost) + " 光";
 			
-			this.u6.uName.text = "Click Power (" + Math.round(upgrades[5].level) + ")"
+			this.u6.uName.text = "点击力量 (" + Math.round(upgrades[5].level) + ")"
 			comboPower = nd(1 + upgrades[5].level*0.5).div(100);
 			var comboPower_next = nd(1 + (upgrades[5].level+upgrades2[5].buyAmo)*0.5).div(100);
 			this.u6.uCh.text = format(comboPower.times(100)) + "% -> " + format(comboPower_next.times(100)) + "%";
-			this.u6.uCost.text = format(upgrades2[5].totalCost) + " Light";
+			this.u6.uCost.text = format(upgrades2[5].totalCost) + " 光";
 			
-			this.u7.uName.text = "Max Combo (" + Math.round(upgrades[6].level) + ")"
+			this.u7.uName.text = "最大组合 (" + Math.round(upgrades[6].level) + ")"
 			maxCombo = 2 + upgrades[6].level*0.05;
 			var maxCombo_next = 2 + (upgrades[6].level+upgrades2[6].buyAmo)*0.05;
 			this.u7.uCh.text = format(nd(maxCombo).times(100)) + "% -> " + format(nd(maxCombo_next).times(100)) + "%";
-			this.u7.uCost.text = format(upgrades2[6].totalCost) + " Light";
+			this.u7.uCost.text = format(upgrades2[6].totalCost) + " 光";
 			
-			this.u8.uName.text = "Gold Chance (" + Math.round(upgrades[7].level)+ "/" + Math.round(upgrades[7].maxLevel) + ")"
+			this.u8.uName.text = "黄金几率 (" + Math.round(upgrades[7].level)+ "/" + Math.round(upgrades[7].maxLevel) + ")"
 			goldenChance = 0.01 + upgrades[7].level*0.002;
 			var goldenChance_next = 0.01 + (upgrades[7].level+upgrades2[7].buyAmo)*0.002;
 			this.u8.uCh.text = format(nd(goldenChance).times(100)) + "% -> " + format(nd(goldenChance_next).times(100)) + "%";
-			this.u8.uCost.text = format(upgrades2[7].totalCost) + " Light";
+			this.u8.uCost.text = format(upgrades2[7].totalCost) + " 光";
 			
 			
 			var c = Math.random();
@@ -2701,43 +2701,43 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 			
 			
 			if (curStage%10 == 0) {
-				this.stColor.text = "WHITE";
+				this.stColor.text = "白色";
 				this.stColor.color = "#FFFFFF";
 			}
 			else if (curStage%10 == 1) {
-				this.stColor.text = "RED";
+				this.stColor.text = "红色";
 				this.stColor.color = "#FF0000";
 			}
 			else if (curStage%10 == 2) {
-				this.stColor.text = "ORANGE";
+				this.stColor.text = "橙色";
 				this.stColor.color = "#FF9900";
 			}
 			else if (curStage%10 == 3) {
-				this.stColor.text = "YELLOW";
+				this.stColor.text = "黄色";
 				this.stColor.color = "#FFFF66";
 			}
 			else if (curStage%10 == 4) {
-				this.stColor.text = "GREEN";
+				this.stColor.text = "绿色";
 				this.stColor.color = "#66CC00";
 			}
 			else if (curStage%10 == 5) {
-				this.stColor.text = "CYAN";
+				this.stColor.text = "青色";
 				this.stColor.color = "#00FFFF";
 			}
 			else if (curStage%10 == 6) {
-				this.stColor.text = "BLUE";
+				this.stColor.text = "蓝色";
 				this.stColor.color = "#0000CC";
 			}
 			else if (curStage%10 == 7) {
-				this.stColor.text = "PURPLE";
+				this.stColor.text = "紫色";
 				this.stColor.color = "#663399";
 			}
 			else if (curStage%10 == 8) {
-				this.stColor.text = "PINK";
+				this.stColor.text = "粉色";
 				this.stColor.color = "#FF00FF";
 			}
 			else if (curStage%10 == 9) {
-				this.stColor.text = "BROWN";
+				this.stColor.text = "棕色";
 				this.stColor.color = "#663300";
 			}
 			
@@ -2824,7 +2824,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 				
 				this.prestigeW.pMult.text = format(prestigeMult) + " -> " + format(prestigeMult_next);
 				this.prestigeW.pExp.text = format(prestigePower) + " -> " + format(prestigePower_next);
-				this.prestigeW.cclicks.text = "Click " + Math.round(pClicks) + " times to prestige";
+				this.prestigeW.cclicks.text = "点击 " + Math.round(pClicks) + " 次以声望";
 				this.tip.visible = true;
 			}
 			else {
@@ -2853,7 +2853,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 				
 				this.rebirthW.rMult.text = "x" + format(rebirthMult) + " -> x" + format(rebirthMult_next);
 				this.rebirthW.rExp.text = format(rebirthPower) + " -> " + format(rebirthPower_next);
-				this.rebirthW.cclicks.text = "Click " + Math.round(rClicks) + " times to rebirth";
+				this.rebirthW.cclicks.text = "点击 " + Math.round(rClicks) + " 次以转生";
 				
 			}
 			else {
@@ -2874,7 +2874,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 			this.buy1.t.text = "1";
 			this.buy10.t.text = "10";
 			this.buy100.t.text = "100";
-			this.buyMax.t.text = "MAX";
+			this.buyMax.t.text = "最大";
 			
 			if (buyAmo == 1) {
 				this.buy1.gotoAndStop(1);
@@ -3398,7 +3398,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 	this.spdTime.parent = this;
 	this.spdTime.setTransform(131.5,562.25,0.9704,0.9678);
 
-	this.spdUP = new cjs.Text("SpeedUP (x2, max 1h)", "bold 18px 'Arial'", "#FFFFFF");
+	this.spdUP = new cjs.Text("加速 (x2, 最多 1小时)", "bold 18px 'Arial'", "#FFFFFF");
 	this.spdUP.name = "spdUP";
 	this.spdUP.textAlign = "center";
 	this.spdUP.lineHeight = 22;
@@ -3426,14 +3426,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 	this.lampstnl.parent = this;
 	this.lampstnl.setTransform(366.1,98.5,1.6212,1.6212);
 
-	this.stColor = new cjs.Text("WHITE", "bold 25px 'Arial'", "#FFFFFF");
+	this.stColor = new cjs.Text("白色", "bold 25px 'Arial'", "#FFFFFF");
 	this.stColor.name = "stColor";
 	this.stColor.lineHeight = 30;
 	this.stColor.lineWidth = 123;
 	this.stColor.parent = this;
 	this.stColor.setTransform(694.85,179.85);
 
-	this.text = new cjs.Text("Stage Color:", "bold 25px 'Arial'", "#FFFFFF");
+	this.text = new cjs.Text("关卡色彩:", "bold 25px 'Arial'", "#FFFFFF");
 	this.text.lineHeight = 30;
 	this.text.lineWidth = 174;
 	this.text.parent = this;
@@ -3459,14 +3459,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 	this.curStageB.name = "curStageB";
 	this.curStageB.setTransform(649.4,117.65,1,1,0,0,0,49.3,44.3);
 
-	this.text_1 = new cjs.Text("Click the bell to speed up your moths", "bold 20px 'Arial'", "#FFFFFF");
+	this.text_1 = new cjs.Text("点击铃铛加速你的飞蛾", "bold 20px 'Arial'", "#FFFFFF");
 	this.text_1.textAlign = "center";
 	this.text_1.lineHeight = 24;
 	this.text_1.lineWidth = 199;
 	this.text_1.parent = this;
 	this.text_1.setTransform(124.1,442.85);
 
-	this.combos = new cjs.Text("Combo: 200%", "bold 25px 'Arial'", "#FFFFFF");
+	this.combos = new cjs.Text("组合: 200%", "bold 25px 'Arial'", "#FFFFFF");
 	this.combos.name = "combos";
 	this.combos.textAlign = "center";
 	this.combos.lineHeight = 30;
@@ -3519,7 +3519,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 	this.u5.name = "u5";
 	this.u5.setTransform(1160.3,343.05,1,1,0,0,0,94.7,40);
 
-	this.lampHP = new cjs.Text("Lamps HP: 5", "bold 25px 'Arial'", "#FFFFFF");
+	this.lampHP = new cjs.Text("灯生命值: 5", "bold 25px 'Arial'", "#FFFFFF");
 	this.lampHP.name = "lampHP";
 	this.lampHP.textAlign = "center";
 	this.lampHP.lineHeight = 30;
@@ -3535,7 +3535,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 	this.powt.parent = this;
 	this.powt.setTransform(207.1,73.4,1.0172,1.0172);
 
-	this.mothP = new cjs.Text("Moth power: 1", "bold 25px 'Arial'", "#FFFFFF");
+	this.mothP = new cjs.Text("飞蛾力量: 1", "bold 25px 'Arial'", "#FFFFFF");
 	this.mothP.name = "mothP";
 	this.mothP.textAlign = "center";
 	this.mothP.lineHeight = 30;
@@ -3550,14 +3550,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 	this.lamp.name = "lamp";
 	this.lamp.setTransform(142.1,889.05);
 
-	this.light = new cjs.Text("Light: 100,000", "bold 25px 'Arial'", "#FFFFFF");
+	this.light = new cjs.Text("光: 100,000", "bold 25px 'Arial'", "#FFFFFF");
 	this.light.name = "light";
 	this.light.lineHeight = 30;
 	this.light.lineWidth = 264;
 	this.light.parent = this;
 	this.light.setTransform(1064.15,139.55,0.7721,0.7721);
 
-	this.moths = new cjs.Text("Moths: 12", "bold 25px 'Arial'", "#FFFFFF");
+	this.moths = new cjs.Text("飞蛾: 12", "bold 25px 'Arial'", "#FFFFFF");
 	this.moths.name = "moths";
 	this.moths.lineHeight = 30;
 	this.moths.lineWidth = 264;
