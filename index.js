@@ -3362,7 +3362,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,152.3,60.2);
 	this.buy1.name = "buy1";
 	this.buy1.setTransform(1070.35,275.75,1,1,0,0,0,23.9,14.1);
 
-	this.tip = new cjs.Text("Prestige & Rebirth mults also boost light gain", "bold 18px 'Arial'", "#FFFFFF");
+	this.tip = new cjs.Text("声望 & 重生 乘数也增加光增益", "bold 18px 'Arial'", "#FFFFFF");
 	this.tip.name = "tip";
 	this.tip.textAlign = "center";
 	this.tip.lineHeight = 22;
